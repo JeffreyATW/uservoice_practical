@@ -1,0 +1,201 @@
+body {
+    background: #293e66;
+}
+
+/* this fixes HTML5 elements for Firefox and other non-IE browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+/* keep everything in #feedback so as to not affect the rest of the page */
+#feedback {
+    background: #e2e6cf;
+    color: #2e2f33;
+    width: 640px;
+    height: 480px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -240px 0 0 -320px;
+    font: 14px Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 11px rgba(0,0,0,.5);
+    -moz-box-shadow: 0 5px 11px rgba(0,0,0,.5);
+    box-shadow: 0 5px 11px rgba(0,0,0,.5);
+    z-index: 100; /* or whatever */
+
+    .header {
+        height: 44px;
+        background: #809900;
+        position: relative;
+        -webkit-border-top-left-radius: 5px;
+        -moz-border-radius-topleft: 5px;
+        border-top-left-radius: 5px;
+        -webkit-border-top-right-radius: 5px;
+        -moz-border-radius-topright: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 18px;
+        margin: 0;
+        padding-top: 13px;
+    }
+
+    .close {
+        background: #e2e6cf;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 11px;
+        line-height: 24px;
+        text-align: center;
+        width: 50px;
+        height: 24px;
+        color: #809900;
+        text-decoration: none;
+        font-weight: bold;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    textarea {
+        resize: none;
+    }
+
+    .post_box {
+        height: 86px;
+        padding: 9px;
+        position: relative;
+
+        textarea, input.text {
+            border: 1px solid #b7bf90;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+            font: 14px Arial, sans-serif;
+            margin: 0;
+        }
+
+        textarea {
+            margin-bottom: 8px;
+            padding: 7px;
+            width: 606px;
+            height: 36px;
+            display: block; /* Removes extra-margin spacing in WebKit */
+        }
+
+        input.text {
+            padding: 4px 7px;
+            width: 231px;
+        }
+
+        input.submit {
+            font-size: 16px;
+            position: absolute;
+            bottom: 9px;
+            right: 10px;
+        }
+    }
+
+    .feed {
+        background: #f3f6fa;
+        border: solid #b7bf90;
+        border-width: 1px 1px 1px 0;
+        border-right-color: #808080;
+        height: 326px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    article {
+        padding: 9px 10px;
+        border-bottom: 1px solid #dbdee6;
+
+        address {
+            font-style: normal;
+            font-weight: bold;
+            display: inline;
+        }
+
+        p {
+            display: inline;
+            line-height: 18px;
+        }
+
+        footer, footer a {
+            color: #a0a6b3;
+        }
+
+        footer {
+            margin-top: 4px;
+            font-size: 11px;
+        }
+
+        .separator {
+            margin: 0 4px;
+        }
+    }
+
+    article:last-child {
+        border: none;
+    }
+
+    .reply, .reply_box {
+        background: url('/images/reply.png') no-repeat 0 10px;
+        padding-left: 18px;
+    }
+
+    .reply {
+        font-size: 12px;
+        margin-left: -2px;
+        padding-bottom: 0;
+        border: none;
+
+        .replied {
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 1px;
+        }
+    }
+
+    .reply_box {
+        padding-top: 9px;
+        position: relative;
+
+        textarea, input.text {
+            border: 1px solid #dbdee6;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+            font: 12px Arial, sans-serif;
+            margin: 0;
+        }
+
+        textarea {
+            display: block;
+            width: 580px;
+            margin-bottom: 4px;
+        }
+
+        input.submit {
+            font-size: 14px;
+            position: absolute;
+            bottom: -2px;
+            left: 555px;
+        }
+    }
+
+    .placeholder {
+        color: #a0a6b3;
+    }
+}

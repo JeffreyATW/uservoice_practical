@@ -1,0 +1,79 @@
+!!! 5
+%html
+  %head
+    %title JeffreyATW UserVoice Practical
+    = stylesheet_link_tag "style"
+    /Easiest way to get HTML5 elements to work in IE
+    = javascript_include_tag "html5shiv"
+    = javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"
+    /Catches edge cases for browsers that don't support placeholders
+    = javascript_include_tag "jquery.placeholder"
+    = javascript_include_tag "application"
+    /[if lt IE 8]
+      :css
+        #feedback address {
+          margin-right: 4px;
+        }
+
+        #feedback form {
+          margin: 0;
+        }
+
+        #feedback .post_box input.submit {
+          bottom: 18px !important;
+          right: 10px !important;
+        }
+
+        #feedback .reply_box {
+          zoom: 1; /* Prevents Reply button from showing up in nowhere land */
+        }
+    /[if IE 8]
+      :css
+        #feedback .reply_box input.submit {
+          bottom: -4px;
+          left: 543px;
+        }
+
+  %body
+    %section#feedback
+      .header
+        %h1 What do you think?
+        = link_to "Close", "#", :class => "close"
+      %form.post_box
+        %textarea{:name => "content", :class => "required", :placeholder => "Enter your thought here..."}
+        %input.text{:type=>"text", :name => "name", :class => "required", :placeholder => "Your name"}
+        %input.submit{:type=>"submit", :value=>"Post"}
+      .feed
+        %article
+          %address Brenda Jones
+          %p Make the logo bigger.
+          %footer
+            /datetime is a UNIX epoch timestamp
+            %time{:datetime=>"1294337410000"} 6 January 2011 10:10
+            %span.separator &bull;
+            = link_to "Reply", "#", :class => "reply_button"
+          %section.replies
+        %article
+          %address Darren Peakock
+          %p I hate blue. Can you get add more pink?
+          %footer
+            %time{:datetime=>"1294330210000"} 6 January 2011 8:10
+            %span.separator &bull;
+            = link_to "Reply", "#", :class => "reply_button"
+          %section.replies
+        %article
+          %address Julie Zinger
+          %p
+            I cant find out how 2 get 2 check my email. My password is &lsquo;password&rsquo;, but theirs no place to
+            put it. Can you help me.
+          %footer
+            %time{:datetime=>"1294243810000"} 5 January 2011 10:10
+            %span.separator &bull;
+            = link_to "Reply", "#", :class => "reply_button"
+          %section.replies
+            %article.reply
+              %address John Spitzer
+              %span.replied replied
+              %p I think you&rsquo;re in the wrong forum.
+              %footer
+                %time{:datetime=>"1294341010000"} 6 January 2011 10:10

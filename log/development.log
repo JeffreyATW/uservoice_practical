@@ -1,0 +1,2359 @@
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 20:37:56) [GET]
+Rendering home/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:00:13) [GET]
+
+ActionView::MissingTemplate (Missing template home/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:01:06) [GET]
+Rendering home/index
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:05:10) [GET]
+Rendering home/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:06:45) [GET]
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:07:29) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:08:42) [GET]
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:10:01) [GET]
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:10:43) [GET]
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:11:23) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:12:31) [GET]
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:13:06) [GET]
+Rendering home/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:13:32) [GET]
+Rendering home/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:14:35) [GET]
+Rendering home/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:14:40) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:14:58) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:15:10) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:15:24) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:16:20) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:16:34) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:19:58) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:20:26) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:20:51) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:21:20) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:29:24) [GET]
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:29:48) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:31:06) [GET]
+Rendering home/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:31:24) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:31:43) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:31:48) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:34:19) [GET]
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:34:42) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:35:04) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:36:13) [GET]
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:36:32) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:40:20) [GET]
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:40:43) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:41:10) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:41:21) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:46:00) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:46:13) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:46:41) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:47:49) [GET]
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:48:41) [GET]
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:48:57) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:03) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:16) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:27) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:32) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:40) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:49:55) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:50:03) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:50:09) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:50:19) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:50:26) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:50:37) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:51:29) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:51:42) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:51:48) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:51:55) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:52:04) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:52:39) [GET]
+Rendering home/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:53:11) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:53:29) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:53:36) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:54:01) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:54:34) [GET]
+Rendering home/index
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:54:35) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:55:08) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:55:34) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:55:47) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:26) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:33) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:36) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:43) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:56:57) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:02) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:08) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:18) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:24) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:29) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:38) [GET]
+Rendering home/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:57:41) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:58:27) [GET]
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:58:47) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:58:49) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:58:53) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:59:01) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:59:19) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 21:59:37) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:00:28) [GET]
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:01:08) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:01:41) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:01:46) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:02:06) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:02:18) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:02:24) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:02:46) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:04:04) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:04:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:04:44) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:04:50) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:04:58) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:05:57) [GET]
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:06:03) [GET]
+Rendering home/index
+Completed in 70ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:06:14) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:06:34) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:06:49) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:06:54) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:07:03) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:07:25) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:07:46) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:08:18) [GET]
+Rendering home/index
+
+ActionView::TemplateError (Illegal nesting: content can't be both given on the same line as %h1 and nested within it.) on line #10 of app/views/home/index.html.haml:
+7:     %section#feedback
+8:       .header
+9:         %h1 What do you think?
+10:           = link_to "Close", "", :class => "close"
+11:       .post
+12:         %form
+13:           %textarea{:placeholder => "Enter your thought here..."}
+
+    app/views/home/index.html.haml:10
+    haml (3.0.18) lib/haml/precompiler.rb:774:in `render_tag'
+    haml (3.0.18) lib/haml/precompiler.rb:214:in `process_line'
+    haml (3.0.18) lib/haml/precompiler.rb:178:in `precompile'
+    haml (3.0.18) lib/haml/engine.rb:121:in `initialize'
+    haml (3.0.18) rails/./lib/haml/template/plugin.rb:29:in `new'
+    haml (3.0.18) rails/./lib/haml/template/plugin.rb:29:in `compile'
+    haml (3.0.18) rails/./lib/haml/helpers/action_view_mods.rb:13:in `render'
+    haml (3.0.18) rails/./lib/sass/plugin/rack.rb:41:in `call'
+
+Rendered rescues/_trace (120.3ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:08:20) [GET]
+Rendering home/index
+
+ActionView::TemplateError (Illegal nesting: content can't be both given on the same line as %h1 and nested within it.) on line #10 of app/views/home/index.html.haml:
+7:     %section#feedback
+8:       .header
+9:         %h1 What do you think?
+10:           = link_to "Close", "", :class => "close"
+11:       .post
+12:         %form
+13:           %textarea{:placeholder => "Enter your thought here..."}
+
+    app/views/home/index.html.haml:10
+    haml (3.0.18) lib/haml/precompiler.rb:774:in `render_tag'
+    haml (3.0.18) lib/haml/precompiler.rb:214:in `process_line'
+    haml (3.0.18) lib/haml/precompiler.rb:178:in `precompile'
+    haml (3.0.18) lib/haml/engine.rb:121:in `initialize'
+    haml (3.0.18) rails/./lib/haml/template/plugin.rb:29:in `new'
+    haml (3.0.18) rails/./lib/haml/template/plugin.rb:29:in `compile'
+    haml (3.0.18) rails/./lib/haml/helpers/action_view_mods.rb:13:in `render'
+    haml (3.0.18) rails/./lib/sass/plugin/rack.rb:41:in `call'
+
+Rendered rescues/_trace (49.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:08:28) [GET]
+Rendering home/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:08:41) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:09:12) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:10:20) [GET]
+Rendering home/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:12:58) [GET]
+Rendering home/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/?]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:15:17) [GET]
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:15:23) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:15:42) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:16:41) [GET]
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:16:45) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:16:53) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:17:21) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:17:30) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:18:17) [GET]
+Rendering home/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:18:39) [GET]
+Rendering home/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:19:31) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:20:15) [GET]
+Rendering home/index
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:20:25) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:20:33) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:20:56) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:21:36) [GET]
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:21:49) [GET]
+Rendering home/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:21:57) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:23:28) [GET]
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:24:00) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:24:29) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:24:40) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:25:03) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:25:45) [GET]
+Rendering home/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:26:27) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:27:06) [GET]
+Rendering home/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:27:18) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:27:27) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:27:43) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:28:41) [GET]
+Rendering home/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:28:47) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:30:12) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:31:52) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:32:04) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:32:17) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:33:52) [GET]
+Rendering home/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:34:41) [GET]
+Rendering home/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:34:47) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:34:53) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:06) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:12) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:28) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:35) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:44) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:51) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:35:57) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:36:47) [GET]
+Rendering home/index
+Completed in 87ms (View: 86, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:37:09) [GET]
+Rendering home/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:37:43) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:38:52) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:41:08) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:41:08) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:41:17) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:42:49) [GET]
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:42:58) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:43:10) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:43:14) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:44:46) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:45:24) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:48:09) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:48:13) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:50:28) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:54:12) [GET]
+Rendering home/index
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:54:15) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:54:35) [GET]
+Rendering home/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:56:00) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:56:24) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:56:53) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:57:07) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:57:18) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:59:06) [GET]
+Rendering home/index
+Completed in 88ms (View: 87, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:59:11) [GET]
+Rendering home/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-05 22:59:46) [GET]
+Rendering home/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 22:59:59) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:01:32) [GET]
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:01:35) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:02:32) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:15:34) [GET]
+Rendering home/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:15:47) [GET]
+Rendering home/index
+Completed in 81ms (View: 79, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:15:55) [GET]
+Rendering home/index
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:16:54) [GET]
+Rendering home/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:17:03) [GET]
+Rendering home/index
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:17:36) [GET]
+Rendering home/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:17:50) [GET]
+Rendering home/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:17:57) [GET]
+Rendering home/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:19:16) [GET]
+Rendering home/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:19:33) [GET]
+Rendering home/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:19:41) [GET]
+Rendering home/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:19:48) [GET]
+Rendering home/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-05 23:19:58) [GET]
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 11:03:15) [GET]
+Rendering home/index
+Completed in 69ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:03:51) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:15) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:17) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:20) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:21) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 11:04:23) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 14:39:45) [GET]
+Rendering home/index
+Completed in 69ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 14:51:13) [GET]
+Rendering home/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 14:54:51) [GET]
+Rendering home/index
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:23:11) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:23:35) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:29:13) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:33:36) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:46:04) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:46:50) [GET]
+Rendering home/index
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 16:53:04) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:03:21) [GET]
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:04:45) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:08:24) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:08:25) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:09:45) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:17:55) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:18:53) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:19:36) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:20:11) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:21:05) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:21:15) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:21:39) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:22:02) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:22:17) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:23:18) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:23:36) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:24:13) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:24:25) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:25:03) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:25:37) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:26:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:41:10) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:42:11) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:42:43) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:42:50) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:42:56) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:47:32) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:47:53) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:47:59) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:50:55) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:50:58) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:51:01) [GET]
+  Parameters: {"name"=>"r", "content"=>"r"}
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=r&name=r]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:51:13) [GET]
+  Parameters: {"name"=>"g", "content"=>"g"}
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=g&name=g]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:08) [GET]
+  Parameters: {"name"=>"hrhr", "content"=>"hrh"}
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=hrh&name=hrhr]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:09) [GET]
+  Parameters: {"name"=>"hrhr", "content"=>"hrh"}
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/?content=hrh&name=hrhr]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:12) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:15) [GET]
+  Parameters: {"name"=>"erge", "content"=>"erge"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=erge&name=erge]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:26) [GET]
+  Parameters: {"name"=>"", "content"=>""}
+Rendering home/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/?content=&name=]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:30) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:52:52) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:56:59) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 17:57:20) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:02:14) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-06 18:02:20) [POST]
+  Parameters: {"name"=>"erge", "content"=>"erge"}
+
+ActionController::RoutingError (No route matches "/reply" with {:method=>:post}):
+  haml (3.0.18) rails/./lib/sass/plugin/rack.rb:41:in `call'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-06 18:03:57) [POST]
+  Parameters: {"name"=>"erge", "content"=>"erge"}
+
+ActionController::RoutingError (No route matches "/reply" with {:method=>:post}):
+  haml (3.0.18) rails/./lib/sass/plugin/rack.rb:41:in `call'
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:04:53) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:05:00) [POST]
+  Parameters: {"name"=>"ergege", "content"=>"erge"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:06:04) [POST]
+  Parameters: {"name"=>"ergege", "content"=>"erge"}
+Completed in 331757ms (View: 2, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:11:36) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:11:42) [POST]
+  Parameters: {"name"=>"eww", "content"=>"fewwe"}
+Completed in 3533ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:12:16) [POST]
+  Parameters: {"name"=>"eww", "content"=>"fewwe"}
+Completed in 5612ms (View: 5, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:20:55) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:21:00) [POST]
+  Parameters: {"name"=>"ggergeeb", "content"=>"erge"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:21:15) [POST]
+  Parameters: {"name"=>"ggergeeb", "content"=>"erge<hello><script>"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:22:27) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:22:31) [POST]
+  Parameters: {"name"=>"rnnwnr", "content"=>"rtwhwh"}
+
+NoMethodError (undefined method `include' for ["controller", "action"]:Array):
+  app/controllers/home_controller.rb:18:in `create_form_hash'
+  app/controllers/home_controller.rb:17:in `each'
+  app/controllers/home_controller.rb:17:in `create_form_hash'
+  app/controllers/home_controller.rb:7:in `reply'
+  haml (3.0.18) rails/./lib/sass/plugin/rack.rb:41:in `call'
+
+Rendered rescues/_trace (38.5ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:22:51) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:23:01) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:23:12) [POST]
+  Parameters: {"name"=>"eheherhe", "content"=>"eere"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:27:41) [POST]
+  Parameters: {"name"=>"eheherhe", "content"=>"eere"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:29:52) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:29:58) [POST]
+  Parameters: {"name"=>"eebebe", "content"=>"aerga"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:30:33) [POST]
+  Parameters: {"name"=>"eebebe", "content"=>"aerga"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:32:04) [POST]
+  Parameters: {"name"=>"eebebe", "content"=>"aerga"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 18:33:33) [POST]
+  Parameters: {"name"=>"srtnsrtns", "content"=>"nsn"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:33:42) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 18:33:45) [POST]
+  Parameters: {"name"=>"reqebb", "content"=>"wefw"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:37:51) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:37:54) [POST]
+  Parameters: {"name"=>"rehae", "content"=>"rege"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:38:19) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:38:23) [POST]
+  Parameters: {"name"=>"nsrnsn", "content"=>"rths"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:38:38) [POST]
+  Parameters: {"name"=>"nsrnsn", "content"=>"rths"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:38:57) [POST]
+  Parameters: {"name"=>"nsrnsn", "content"=>"rths"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:40:39) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:40:42) [POST]
+  Parameters: {"name"=>"trsnsnt", "content"=>"erge"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:40:44) [POST]
+  Parameters: {"name"=>"trsnsnt", "content"=>"erge"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:40:44) [POST]
+  Parameters: {"name"=>"trsnsnt", "content"=>"erge"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:40:45) [POST]
+  Parameters: {"name"=>"trsnsnt", "content"=>"erge"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:45:47) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:45:52) [POST]
+  Parameters: {"name"=>"trwr", "content"=>"rerge"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:47:36) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:47:40) [POST]
+  Parameters: {"name"=>"thrhr", "content"=>"regarg"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:47:47) [POST]
+  Parameters: {"name"=>"thrhr", "content"=>"regarg"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:48:00) [POST]
+  Parameters: {"name"=>"thrhr", "content"=>"regarg"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:49:04) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:49:08) [POST]
+  Parameters: {"name"=>"nrnrnen", "content"=>"trhsth"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:49:20) [POST]
+  Parameters: {"name"=>"nrnrnen", "content"=>"trhsth"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:51:12) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:51:19) [POST]
+  Parameters: {"name"=>"srthsrth", "content"=>"rsthsrth\nsrtsrth"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:51:51) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:51:57) [POST]
+  Parameters: {"name"=>"rtht", "content"=>"aerga\naergaerg"}
+Completed in 67ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:53:54) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:53:58) [POST]
+  Parameters: {"name"=>"erthsrtj", "content"=>"aerb"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:54:04) [POST]
+  Parameters: {"name"=>"erthsrtjntsrn", "content"=>"srthsn"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:55:48) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:56:22) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:56:32) [POST]
+  Parameters: {"name"=>"areaerh", "content"=>"erga"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:56:34) [POST]
+  Parameters: {"name"=>"areaerh", "content"=>"erga"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:56:35) [POST]
+  Parameters: {"name"=>"areaerh", "content"=>"erga"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:57:04) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:57:10) [POST]
+  Parameters: {"name"=>"srtmstyms", "content"=>"srth"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:57:12) [POST]
+  Parameters: {"name"=>"srtmstyms", "content"=>"srth"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:57:36) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:57:41) [POST]
+  Parameters: {"name"=>"aerbaebr", "content"=>"aergae"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:57:44) [POST]
+  Parameters: {"name"=>"aerbaebr", "content"=>"aergae"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:57:45) [POST]
+  Parameters: {"name"=>"aerbaebr", "content"=>"aergae"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:58:17) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:58:20) [POST]
+  Parameters: {"name"=>"rstsrtjsrtj", "content"=>"rsths"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:58:53) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:58:56) [POST]
+  Parameters: {"name"=>"srtjsrjs", "content"=>"srths"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 18:59:03) [POST]
+  Parameters: {"name"=>"smsmtykd", "content"=>"tdydt"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 18:59:08) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:03:55) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:03:58) [POST]
+  Parameters: {"name"=>"rstjsrtjsrtj", "content"=>"trsrj"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:04:03) [POST]
+  Parameters: {"name"=>"herhaerhae", "content"=>"aegra"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:04:18) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:04:20) [POST]
+  Parameters: {"name"=>"srtysrtyksr", "content"=>"trsj"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:04:23) [POST]
+  Parameters: {"name"=>"sjrtjsrtj", "content"=>"srtjs"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:04:26) [POST]
+  Parameters: {"name"=>"rrt", "content"=>"stjsjjjrj"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:01) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:05:05) [POST]
+  Parameters: {"name"=>"srtrsj", "content"=>"srtjrstjrsj"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:06) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:05:09) [POST]
+  Parameters: {"name"=>"aerae", "content"=>"earhaer"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:18) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:05:21) [POST]
+  Parameters: {"name"=>"srth", "content"=>"srtjrstjsrtj"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:05:25) [POST]
+  Parameters: {"name"=>"srtjsrtj", "content"=>"srt"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:05:29) [POST]
+  Parameters: {"name"=>"rjrtrtjrtjrt", "content"=>"srtjsj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:05:37) [POST]
+  Parameters: {"name"=>"tyktsykk", "content"=>"ydt"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:47) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:48) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:05:57) [GET]
+  Parameters: {"name"=>"ee", "content"=>"ege"}
+Rendering home/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/?content=ege&name=ee]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:06:01) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:06:05) [POST]
+  Parameters: {"name"=>"strsrhrstsrt", "content"=>"srths"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:06:08) [POST]
+  Parameters: {"name"=>"srjsjsj", "content"=>"sss"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:06:31) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:06:38) [POST]
+  Parameters: {"name"=>"ahaerhaerh", "content"=>"ttha"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:08:08) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:08:35) [GET]
+Rendering home/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:08:39) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:09:23) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:16:20) [GET]
+Rendering home/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:16:26) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:16:47) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:16:53) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:16:59) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:17:10) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:17:15) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:17:55) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:17:58) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:18:33) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:18:52) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:20:23) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:20:36) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:20:47) [GET]
+Rendering home/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:23:14) [GET]
+Rendering home/index
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:23:19) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:24:26) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:24:58) [POST]
+  Parameters: {"name"=>"srtjsjtsrj", "content"=>"tdyjd"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:27:13) [GET]
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:27:18) [POST]
+  Parameters: {"name"=>"aerhaerh", "content"=>"aerha"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:30:39) [GET]
+Rendering home/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:30:45) [POST]
+  Parameters: {"name"=>"aerhaerhaerh", "content"=>"erhaer"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:31:26) [GET]
+Rendering home/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:31:28) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:31:29) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:31:33) [POST]
+  Parameters: {"name"=>"stsrtjsrtj", "content"=>"trrsh"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:31:36) [POST]
+  Parameters: {"name"=>"tdykdtykdyk", "content"=>"tdydtyk"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:32:09) [POST]
+  Parameters: {"name"=>"gxmhxmxmx", "content"=>"ghxgm"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:32:45) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:32:54) [POST]
+  Parameters: {"name"=>"dzfbzd", "content"=>"dzfbzd"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:39:44) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:39:48) [POST]
+  Parameters: {"name"=>"srtrtj", "content"=>"rsth"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:39:51) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:39:55) [POST]
+  Parameters: {"name"=>"srtjsrtjsr", "content"=>"srth"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:44:01) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:44:04) [POST]
+  Parameters: {"name"=>"tdyj", "content"=>"dtyjdtyjdtyj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:44:17) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:44:20) [POST]
+  Parameters: {"name"=>"srtjsrtjsrtj", "content"=>"strrj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:44:24) [POST]
+  Parameters: {"name"=>"srtjsrtj", "content"=>"srtj"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:44:27) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:44:30) [POST]
+  Parameters: {"name"=>"srtjsrtjsrtj", "content"=>"rstj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:44:34) [POST]
+  Parameters: {"name"=>"erherherh", "content"=>"er"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:44:40) [POST]
+  Parameters: {"name"=>"tykdtykdt", "content"=>"ytjty"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:47:15) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:48:15) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:48:26) [POST]
+  Parameters: {"name"=>"srtjsr", "content"=>"sj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:48:30) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#post (for 10.0.1.13 at 2011-01-06 19:48:36) [POST]
+  Parameters: {"name"=>"mgmmg", "content"=>"ddd"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/post]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:49:16) [GET]
+Rendering home/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#index (for 10.0.1.13 at 2011-01-06 19:50:19) [GET]
+Rendering home/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://10.0.1.13/]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:50:25) [POST]
+  Parameters: {"name"=>"dtyktykdt", "content"=>"yuk"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#reply (for 10.0.1.13 at 2011-01-06 19:50:37) [POST]
+  Parameters: {"name"=>"srtjsrtjsrtj", "content"=>"dtyj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.1.13/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:50:51) [POST]
+  Parameters: {"name"=>"fyulfyul", "content"=>"fyuk"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:52:53) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:53:10) [GET]
+Rendering home/index
+Completed in 90ms (View: 14, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:53:15) [POST]
+  Parameters: {"name"=>"aerhaeh", "content"=>"erger"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:53:21) [POST]
+  Parameters: {"name"=>"ahaherha", "content"=>"gr"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:53:29) [POST]
+  Parameters: {"name"=>"srtjsrtjsrtj", "content"=>"srth"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:55:31) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:55:54) [GET]
+Rendering home/index
+Completed in 18ms (View: 17, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#post (for 127.0.0.1 at 2011-01-06 19:55:58) [POST]
+  Parameters: {"name"=>"rsrtjrtjsrtj", "content"=>"reher"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/post]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:56:03) [POST]
+  Parameters: {"name"=>"srtjsjsj", "content"=>"hrths"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:56:51) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:56:54) [POST]
+  Parameters: {"name"=>"dtyjdtyj", "content"=>"ytdj"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:56:59) [POST]
+  Parameters: {"name"=>"dtyjdt", "content"=>"tydjd"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:57:27) [GET]
+Rendering home/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#reply (for 127.0.0.1 at 2011-01-06 19:57:34) [POST]
+  Parameters: {"name"=>"srtjsrtj", "content"=>"stjr"}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://10.0.2.2/reply]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:57:41) [GET]
+Rendering home/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:59:15) [GET]
+Rendering home/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 19:59:49) [GET]
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:04:24) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:04:55) [GET]
+Rendering home/index
+Completed in 15ms (View: 14, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:05:14) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:05:26) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:05:44) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:06:12) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:07:48) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://10.0.2.2/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-01-06 20:08:11) [GET]
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
