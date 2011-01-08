@@ -1,0 +1,5 @@
+log/*.log
+tmp/**/*
+.idea/*
+.idea/**/*
+.DS_Store
