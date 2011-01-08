@@ -1,9 +1,11 @@
 body {
   background: #293e66; }
 
+/* this fixes HTML5 elements for Firefox and other non-IE browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block; }
 
+/* keep everything in #feedback so as to not affect the rest of the page */
 #feedback {
   background: #e2e6cf;
   color: #2e2f33;

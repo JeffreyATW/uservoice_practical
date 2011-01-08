@@ -13,9 +13,13 @@ function relativeDates() {
             if (timediff < HOUR) {
                 if (timediff < MINUTE)
                     timemsg = "Less than a minute ago";
+                else if (timediff < MINUTE * 2)
+                    timemsg = "1 minute ago";
                 else
                     timemsg = parseInt(timediff / MINUTE) + " minutes ago"
 
+            } else if (timediff < HOUR * 2) {
+                timemsg = "1 hour ago";
             } else {
                 timemsg = parseInt(timediff / HOUR) + " hours ago"
             }
