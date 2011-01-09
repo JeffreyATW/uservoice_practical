@@ -35,8 +35,8 @@ function createReplyBox(target) {
     target.append('<form class="reply_box"><textarea name="content" class="required" placeholder="Enter your thought here..."></textarea><input type="text" class="text required" name="name" placeholder="Your name"><input type="submit" class="submit" value="Reply"></form>');
     // Without adding yet another plugin to listen for new elements, run placeholder function again during the only
     // time new placeholder-enabled fields are created.
-    $('input').placeholder();
-    $('textarea').placeholder();
+    $('#feedback input').placeholder();
+    $('#feedback textarea').placeholder();
 }
 
 function validate(target) {
@@ -101,7 +101,7 @@ function createPost(response) {
 $(function() {
     relativeDates();
 
-    $('.reply_button').live('click', function() {
+    $('#feedback .reply_button').live('click', function() {
         var article = $(this).closest('article');
         // if the comment already has an existing reply box
         if (article.children().is('.reply_box')) {
@@ -116,7 +116,7 @@ $(function() {
         }
     });
 
-    $('.reply_box').live('submit', function() {
+    $('#feedback .reply_box').live('submit', function() {
         var form = $(this);
         if (validate(form)) {
             $.post('reply', form.serialize(), function(response) {
@@ -129,7 +129,7 @@ $(function() {
         return false;
     });
 
-    $('.post_box').live('submit', function() {
+    $('#feedback .post_box').live('submit', function() {
         var form = $(this);
         if (validate(form)) {
             $.post('post', form.serialize(), function(response) {
@@ -140,6 +140,6 @@ $(function() {
         return false;
     });
 
-    $('input').placeholder();
-    $('textarea').placeholder();
+    $('#feedback input').placeholder();
+    $('#feedback textarea').placeholder();
 });
